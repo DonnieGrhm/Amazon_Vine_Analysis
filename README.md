@@ -23,3 +23,9 @@ The Purpose of this analysis is to compare and contrast the reviews music produc
 - Vine/Non-Vine Reviews 5-Star Percentage
     - 0% of the Vine Reviews were 5-Star
     - 63.7% of the Non-Vine Reviews were 5-Star
+
+-------------------------
+
+## __Vine Review Summary__
+
+According to the Vine reviews for the music products provided, paid Vine members do not review or purchase music products on Vine as mmuch as Non-Vine members. There were only 7 reviews for music products made by Vine members and **none of the 7 reviews were 5-Stars**. Whereas there was over 100,000 reviews on music products by Non-Vine memebers, **63.7% of the reviews on music products by Non-Vine members were 5-Star**. This analysis would conclude that the Amazon Vine Program would not be an advantageous service for SellBy in the category of music products.

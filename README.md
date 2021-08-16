@@ -1,6 +1,6 @@
-### Amazon_Vine_Analysis
+### Amazon Vine Analysis
 
-##__Overview of Analysis__##
+## __Overview of Analysis__
 
 The Purpose of this analysis is to compare and contrast the reviews music products of paid Amazon Vine members to those that are not Amazon Vine members. The company SellBy would like to have an analysis of these music reviews to help them discern and decide whether to purchase this service as a manufacturer from Amazon. Their decision will be based on this services effectiveness to gain higher ratings on products, since the membership will require members to submit product reviews on SellBy's music products.
 

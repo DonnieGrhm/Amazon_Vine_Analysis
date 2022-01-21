@@ -2,8 +2,11 @@
 
 ### Tools
 PySpark - large scale data processing with Python API
-Amazon RDS - host database within cloud service with secure access.
+
+Amazon RDS - host database within cloud service with secure access
+
 PostgreSQL - database manager
+
 pgAdmin 4 - database administrator and queries
 
 
